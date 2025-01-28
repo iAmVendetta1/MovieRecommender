@@ -2,7 +2,7 @@
 
 - Open MovieRecommendApp
 - Run movie_recommend.exe
-- Input a movie you would like recommendations to be based on.
+- Input a movie you would like recommendations to be based on and press enter.
 - Input the number of recommendations you would like and press enter.
 
 ## For issues with EXE
